@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Matura – plan tygodniowy</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="top__title">
+      <h1>Matura – plan tygodniowy</h1>
+      <div class="muted" id="generated"></div>
+    </div>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab active" role="tab" aria-selected="true" data-tab="tydzien">Tydzień</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="lista">Lista</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="dashboard">Postęp</button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="ustawienia">Ustawienia</button>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="filters">
+      <div class="filter">
+        <label>Przedmiot</label>
+        <select id="subjectFilter">
+          <option value="all">Wszystkie</option>
+          <option value="polski">Polski</option>
+          <option value="angielski">Angielski</option>
+          <option value="biologia">Biologia</option>
+          <option value="chemia">Chemia</option>
+        </select>
+      </div>
+
+      <div class="filter">
+        <label>Miesiąc</label>
+        <select id="monthFilter">
+          <option value="all">Wszystkie</option>
+          <option value="1">Styczeń</option>
+          <option value="2">Luty</option>
+        </select>
+      </div>
+
+      <div class="filter">
+        <label>Tag / wariant</label>
+        <select id="tagFilter">
+          <option value="all">Wszystkie</option>
+          <option value="wariant-a">Angielski – wariant A</option>
+          <option value="wariant-b">Angielski – wariant B</option>
+          <option value="podstawa">Polski – podstawa</option>
+          <option value="dated">Z datami (chemia)</option>
+        </select>
+      </div>
+
+      <div class="filter grow">
+        <label>Szukaj</label>
+        <input id="search" type="search" placeholder="np. Dziady, nuklid, protisty…" />
+      </div>
+
+      <div class="filter">
+        <label>&nbsp;</label>
+        <button class="btn" id="clearFilters">Wyczyść</button>
+      </div>
+    </section>
+
+    <section id="tab-tydzien" class="panel active" role="tabpanel">
+      <div class="panel__header">
+        <div>
+          <h2>Widok tygodnia (przeciągnij, żeby przydzielić)</h2>
+          <div class="muted">Uwaga: część PDF-ów to plany „na miesiąc” bez jednoznacznego podziału na tygodnie w tekście. Te zadania startują w kolumnie „Nieprzypisane” – możesz je przeciągnąć do konkretnego tygodnia.</div>
+        </div>
+      </div>
+
+      <div class="board" id="board"></div>
+    </section>
+
+    <section id="tab-lista" class="panel" role="tabpanel">
+      <div class="panel__header">
+        <h2>Lista zadań</h2>
+      </div>
+      <div id="list" class="cards"></div>
+    </section>
+
+    <section id="tab-dashboard" class="panel" role="tabpanel">
+      <div class="panel__header">
+        <h2>Postęp</h2>
+      </div>
+      <div class="stats" id="stats"></div>
+      <div class="cards" id="statsTasks"></div>
+    </section>
+
+    <section id="tab-ustawienia" class="panel" role="tabpanel">
+      <div class="panel__header">
+        <h2>Ustawienia</h2>
+      </div>
+      <div class="settings">
+        <div class="setting">
+          <h3>Postęp i przypisania</h3>
+          <p class="muted">Wszystko zapisuje się lokalnie w Twojej przeglądarce (localStorage).</p>
+          <div class="row gap wrap">
+            <button class="btn danger" id="resetAll">Wyczyść postęp + przypisania</button>
+            <button class="btn" id="exportBtn">Eksportuj</button>
+            <label class="btn">Importuj <input id="importFile" type="file" accept="application/json" hidden /></label>
+          </div>
+          <pre class="code" id="exportPreview" hidden></pre>
+        </div>
+
+        <div class="setting">
+          <h3>Chemia – „Turbo plan” (lista działów)</h3>
+          <p class="muted">To jest lista działów z PDF, jako referencja (bez przypisań do tygodni).</p>
+          <ul id="turboTopics" class="plain"></ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="muted">Wersja statyczna (GitHub Pages). Jeśli chcesz, mogę dodać logowanie i współdzielenie postępu między urządzeniami, ale wtedy potrzebny jest backend.</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

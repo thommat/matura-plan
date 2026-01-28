@@ -1,0 +1,1483 @@
+{
+  "generatedAt": "2026-01-28T09:44:54.200Z",
+  "year": 2026,
+  "subjects": {
+    "polski": {
+      "name": "Język polski"
+    },
+    "angielski": {
+      "name": "Język angielski"
+    },
+    "biologia": {
+      "name": "Biologia"
+    },
+    "chemia": {
+      "name": "Chemia"
+    }
+  },
+  "chemistry": {
+    "turboTopics": [
+      "Budowa atomu i przemiany jądrowe",
+      "Wiązania chemiczne i oddziaływania międzycząsteczkowe,",
+      "Wstęp do chemii nieorganicznej",
+      "Tlenki",
+      "Wodorotlenki",
+      "Kwasy i wodorki",
+      "Sole",
+      "Entalpia i szybkość reakcji",
+      "Równowaga chemiczna",
+      "Reakcje w roztworach wodnych",
+      "Teorie kwasowo-zasadowe",
+      "Reakcje redoks",
+      "Elektrochemia",
+      "Właściwości pierwiastków",
+      "Zastosowanie wybranych związków nieorganicznych",
+      "Wstęp do chemii organicznej",
+      "Izomeria",
+      "Mechanizmy reakcji",
+      "Węglowodory i chlorowcopochodne",
+      "Alkohole i fenole",
+      "Aldehydy i ketony",
+      "Kwasy karboksylowe",
+      "Estry i tłuszcze",
+      "Aminy",
+      "Aminokwasy, peptydy i białka",
+      "Cukry",
+      "Mol i masa molowa",
+      "Stechiometria reakcji",
+      "Stężeniai rozpuszczalność",
+      "Stała równowagi",
+      "Zadania związane z pH, stała i stopień dysocjacji",
+      "Iloczyn rozpuszczalności",
+      "Budowa atomu i przemiany",
+      "Wiązania chemiczne",
+      "Systematyka związków",
+      "Entalpia i szybkość reakcji",
+      "Równowaga chemiczna",
+      "Reakcje w roztworach",
+      "Teorie kwasowo-zasadowe",
+      "Reakcje redoks",
+      "Elektrochemia",
+      "Właściwości pierwiastków",
+      "Mol i masa molowa",
+      "Stechiometria",
+      "Stężenia i rozpuszczalność",
+      "Stała równowagi",
+      "Stała i stopień dysocjacji",
+      "Iloczyn rozpuszczalności",
+      "Izomeria i mechanizmy",
+      "Węglowodory i",
+      "Alkohole i fenole",
+      "Aldehydy i ketony, kwasy",
+      "Aminy, aminokwasy i białka",
+      "Cukry",
+      "01.2026 godz. 23:59"
+    ]
+  },
+  "weeks": [
+    {
+      "key": "date:2026-01-05",
+      "label": "Chemia: tydzień 1 (5-11.01.2026)",
+      "date": {
+        "fromDay": 5,
+        "toDay": 11,
+        "month": 1,
+        "year": 2026,
+        "raw": "5-11.01.2026"
+      }
+    },
+    {
+      "key": "date:2026-01-12",
+      "label": "Chemia: tydzień 2 (12-18.01.2026)",
+      "date": {
+        "fromDay": 12,
+        "toDay": 18,
+        "month": 1,
+        "year": 2026,
+        "raw": "12-18.01.2026"
+      }
+    },
+    {
+      "key": "date:2026-01-19",
+      "label": "Chemia: tydzień 3 (19-25.01.2026)",
+      "date": {
+        "fromDay": 19,
+        "toDay": 25,
+        "month": 1,
+        "year": 2026,
+        "raw": "19-25.01.2026"
+      }
+    },
+    {
+      "key": "date:2026-02-02",
+      "label": "Chemia: tydzień 5 (2-8.02.2026)",
+      "date": {
+        "fromDay": 2,
+        "toDay": 8,
+        "month": 2,
+        "year": 2026,
+        "raw": "2-8.02.2026"
+      }
+    },
+    {
+      "key": "date:2026-02-16",
+      "label": "Chemia: tydzień 7 (16-22.02.2026)",
+      "date": {
+        "fromDay": 16,
+        "toDay": 22,
+        "month": 2,
+        "year": 2026,
+        "raw": "16-22.02.2026"
+      }
+    },
+    {
+      "key": "date:2026-03-02",
+      "label": "Chemia: tydzień 9 (2-8.03.2026)",
+      "date": {
+        "fromDay": 2,
+        "toDay": 8,
+        "month": 3,
+        "year": 2026,
+        "raw": "2-8.03.2026"
+      }
+    },
+    {
+      "key": "date:2026-03-09",
+      "label": "Chemia: tydzień 10 (9-16.03.2026)",
+      "date": {
+        "fromDay": 9,
+        "toDay": 16,
+        "month": 3,
+        "year": 2026,
+        "raw": "9-16.03.2026"
+      }
+    },
+    {
+      "key": "date:2026-03-23",
+      "label": "Chemia: tydzień 11 (23-29.03.2026)",
+      "date": {
+        "fromDay": 23,
+        "toDay": 29,
+        "month": 3,
+        "year": 2026,
+        "raw": "23-29.03.2026"
+      }
+    },
+    {
+      "key": "date:2026-04-06",
+      "label": "Chemia: tydzień 13 (6-12.04.2026)",
+      "date": {
+        "fromDay": 6,
+        "toDay": 12,
+        "month": 4,
+        "year": 2026,
+        "raw": "6-12.04.2026"
+      }
+    },
+    {
+      "key": "date:2026-04-13",
+      "label": "Chemia: tydzień 14 (13-19.04.2026)",
+      "date": {
+        "fromDay": 13,
+        "toDay": 19,
+        "month": 4,
+        "year": 2026,
+        "raw": "13-19.04.2026"
+      }
+    },
+    {
+      "key": "date:2026-04-20",
+      "label": "Chemia: tydzień 15 (20-26.04.2026)",
+      "date": {
+        "fromDay": 20,
+        "toDay": 26,
+        "month": 4,
+        "year": 2026,
+        "raw": "20-26.04.2026"
+      }
+    }
+  ],
+  "monthBuckets": [
+    {
+      "key": "month:2026-01:w1",
+      "label": "Styczeń – tydz. 1"
+    },
+    {
+      "key": "month:2026-01:w2",
+      "label": "Styczeń – tydz. 2"
+    },
+    {
+      "key": "month:2026-01:w3",
+      "label": "Styczeń – tydz. 3"
+    },
+    {
+      "key": "month:2026-01:w4",
+      "label": "Styczeń – tydz. 4"
+    },
+    {
+      "key": "month:2026-02:w1",
+      "label": "Luty – tydz. 1"
+    },
+    {
+      "key": "month:2026-02:w2",
+      "label": "Luty – tydz. 2"
+    },
+    {
+      "key": "month:2026-02:w3",
+      "label": "Luty – tydz. 3"
+    },
+    {
+      "key": "month:2026-02:w4",
+      "label": "Luty – tydz. 4"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "chemia:course:week-1",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 1,
+      "section": "Budowa atomu i przemiany jądrowe",
+      "items": [
+        "Jądro i chmura elektronowa",
+        "Konfiguracja elektronowa i elektrony walencyjne",
+        "Orbitale elektronowe i liczby kwantowe",
+        "Energia jonizacji",
+        "Promień atomowy i jonowy",
+        "Budowa atomu a układ okresowy",
+        "Masa atomu i średnia masa atomowa",
+        "Przemiany jądrowe α, β ̄",
+        "Sztuczne reakcje jądrowe",
+        "2 godz. teorii",
+        "38 zadań z rozwiązaniem",
+        "stosuje pojęcia: nuklid, izotop; ",
+        "interpretuje wartości liczb kwantowych; opisuje stan elektronu w atomie za pomocą liczb kwantowych;",
+        "stosuje pojęcia: powłoka, podpowłoka, stan orbitalny, spin elektronu; ",
+        "stosuje zasady rozmieszczania elektronów na orbitalach (zakaz Pauliego i regułę Hunda) w atomach",
+        "pisze konfiguracje elektronowe atomów pierwiastków do Z=38 oraz ich jonów o podanym ładunku,",
+        "określa przynależność",
+        "wskazuje związek między budową elektronową atomu a położeniem pierwiastka w układzie okresowym i jego",
+        "pisze równania naturalnych przemian promieniotwórczych (α, β ̄) oraz sztucznych reakcji jądrowych; "
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 5,
+        "toDay": 11,
+        "month": 1,
+        "year": 2026,
+        "raw": "5-11.01.2026"
+      },
+      "defaultBucket": "date:2026-01-05"
+    },
+    {
+      "id": "chemia:course:week-2",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 1,
+      "section": "Wiązania chemiczne i oddziaływania międzycząsteczkowe, hybrydyzacja",
+      "items": [
+        "Rodzaje wiązań chemicznych",
+        "Jak NIE określać typu wiązania?",
+        "Wiązania sigma (휎) oraz pi (휋)",
+        "Rodzaje kryształów",
+        "Energia i długość wiązania",
+        "Zasady zapisywania wzorów elektronowych",
+        "Rodniki",
+        "Typy hybrydyzacji, metoda VSEPR",
+        "Budowa polarna i niepolarna cząsteczki",
+        "2 godz. teorii",
+        "42 zadania z rozwiązaniem",
+        "określa rodzaj wiązania (jonowe, kowalencyjne (atomowe) niespolaryzowane, kowalencyjne (atomowe)",
+        "pisze wzory elektronowe typowych cząsteczek związków kowalencyjnych i jonów złożonych, z uwzględnieniem",
+        "wyjaśnia tworzenie orbitali zhybrydyzowanych zgodnie z modelem hybrydyzacji, opisuje ich wzajemne ułożenie w",
+        "rozpoznaje typ hybrydyzacji (sp, sp",
+        "określa typ wiązania (σ i π) w cząsteczkach związków nieorganicznych i organicznych; ",
+        "opisuje i przewiduje wpływ rodzaju wiązania (jonowe, kowalencyjne, metaliczne), oddziaływań",
+        "wskazuje te cząsteczki i fragmenty cząsteczek, które są polarne, oraz te, które są niepolarne;",
+        "porównuje właściwości fizyczne substancji tworzących kryształy jonowe, kowalencyjne, molekularne oraz"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 12,
+        "toDay": 18,
+        "month": 1,
+        "year": 2026,
+        "raw": "12-18.01.2026"
+      },
+      "defaultBucket": "date:2026-01-12"
+    },
+    {
+      "id": "chemia:course:week-3",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 1,
+      "section": "Systematyka związków nieorganicznych",
+      "items": [
+        "Budowa tlenków",
+        "Nazewnictwo tlenków",
+        "Otrzymywanie tlenków",
+        "Podział i typowe reakcje chemiczne tlenków",
+        "Budowa wodorotlenków",
+        "Nazewnictwo wodorotlenków",
+        "Otrzymywanie wodorotlenków i ich właściwości",
+        "Podział i typowe reakcje chemiczne wodorotlenków",
+        "Budowa związków kompleksowych, liczba koordynacyjna",
+        "Podział wodorków i typowe reakcje",
+        "Podział i budowa kwasów",
+        "Nazewnictwo kwasów",
+        "Otrzymywanie kwasów",
+        "Dysocjacja kwasów i ich moc",
+        "Typowe reakcje kwasów",
+        "Budowa soli",
+        "Metody otrzymywania soli",
+        "Wodorosole i hydroksosole",
+        "3 godz. 30 min. teorii",
+        "56 zadań z rozwiązaniem",
+        "na podstawie wzoru sumarycznego, opisu budowy lub właściwości fizykochemicznych klasyfikuje dany związek",
+        "na podstawie wzoru sumarycznego związku nieorganicznego pisze jego nazwę, na podstawie nazwy pisze jego",
+        "pisze równania reakcji otrzymywania tlenków pierwiastków o liczbach atomowych od 1 do 30 (synteza",
+        "opisuje typowe właściwości chemiczne tlenków pierwiastków o liczbach atomowych od 1 do 20 oraz Cr, Cu, Zn,",
+        "klasyfikuje tlenki ze względu na ich charakter chemiczny (kwasowy, zasadowy, amfoteryczny i obojętny); projektuje",
+        "projektuje i przeprowadza doświadczenia pozwalające otrzymać wodorotlenki różnymi metodami; pisze",
+        "projektuje i przeprowadza doświadczenie, którego przebieg pozwoli wykazać charakter chemiczny; wnioskuje o",
+        "pisze równania reakcji ilustrujące typowe właściwości chemiczne metali wobec: wody (dla Na, K, Mg, Ca).",
+        "projektuje i przeprowadza doświadczenia pozwalające otrzymać kwasy różnymi metodami; pisze odpowiednie",
+        "opisuje typowe właściwości chemiczne kwasów, w tym zachowanie wobec metali, tlenków metali, wodorotlenków",
+        "klasyfikuje poznane kwasy ze względu na ich skład (kwasy tlenowe i beztlenowe), moc i właściwości utleniające;",
+        "klasyfikuje wodorki: LiH, CH",
+        "projektuje doświadczenia pozwalające otrzymać sole różnymi metodami; pisze odpowiednie równania reakcji; ",
+        "pisze równania reakcji ilustrujące typowe właściwości chemiczne metali wobec: kwasów nieutleniających (dla Na, K,",
+        "opisuje właściwości fizyczne i chemiczne glinu; wyjaśnia, na czym polega pasywacja glinu; tłumaczy znaczenie tego",
+        "przewiduje przebieg reakcji soli z mocnymi kwasami (wypieranie kwasów słabszych, nietrwałych, lotnych) oraz soli z",
+        "pisze wzory hydratów i soli bezwodnych (CaSO"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 19,
+        "toDay": 25,
+        "month": 1,
+        "year": 2026,
+        "raw": "19-25.01.2026"
+      },
+      "defaultBucket": "date:2026-01-19"
+    },
+    {
+      "id": "chemia:course:week-4",
+      "subject": "chemia",
+      "monthName": null,
+      "month": null,
+      "section": "Entalpia, szybkość reakcji, równowaga chemiczna",
+      "items": [
+        "Efekt energetyczny reakcji, entalpia",
+        "Energia aktywacji i katalizatory",
+        "Szybkość reakcji i równanie kinetyczne",
+        "Czynniki wpływające na szybkość reakcji",
+        "Równowaga chemiczna, reguła przekory (Le Chateliera-Brauna)",
+        "1 godz. teorii",
+        "30 zadania z rozwiązaniem",
+        "stosuje pojęcie standardowej entalpii przemiany; interpretuje zapis ΔH < 0 i ΔH > 0; określa efekt energetyczny",
+        "stosuje pojęcia: egzoenergetyczny, endoenergetyczny, energia aktywacji do opisu efektów energetycznych przemian;",
+        "definiuje i oblicza szybkość reakcji (jako zmianę stężenia reagenta w czasie); ",
+        "przewiduje wpływ: stężenia (ciśnienia) substratów, obecności katalizatora, stopnia rozdrobnienia substratów i",
+        "na podstawie równania kinetycznego określa rząd reakcji względem każdego substratu; na podstawie danych",
+        "porównuje wartość energii aktywacji przebiegającej z udziałem i bez udziału katalizatora;",
+        "wykazuje się znajomością i rozumieniem pojęć: stan równowagi dynamicznej i stała równowagi; pisze wyrażenie na",
+        "wymienia czynniki, które wpływają na stan równowagi reakcji; wyjaśnia, dlaczego obecność katalizatora nie wpływa"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": null,
+      "defaultBucket": "chemia:unassigned"
+    },
+    {
+      "id": "chemia:course:week-5",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 2,
+      "section": "Reakcje w roztworach wodnych",
+      "items": [
+        "Dysocjacja elektrolityczna i skala pH",
+        "Autodysocjacja",
+        "Wskaźniki pH (wskaźniki)",
+        "Które sole ulegają hydrolizie?",
+        "Równanie reakcji hydrolizy",
+        "Wodorosole i hydroksosole - dysocjacja i hydroliza",
+        "Teoria Arrheniusa i Brønsteda-Lowry'ego",
+        "Miareczkowanie - zasada działania i zastosowanie",
+        "2 godz. teorii",
+        "39 zadań z rozwiązaniem",
+        "pisze równania dysocjacji elektrolitycznej związków nieorganicznych i organicznych z uwzględnieniem dysocjacji",
+        "stosuje termin stopień dysocjacji dla ilościowego opisu zjawiska dysocjacji elektrolitycznej; ",
+        "porównuje moc elektrolitów na podstawie wartości ich stałych dysocjacji; ",
+        "pisze równania reakcji: zobojętniania, wytrącania osadów i wybranych soli z wodą w formie jonowej pełnej i",
+        "przewiduje odczyn roztworu po reakcji substancji zmieszanych w ilościach stechiometrycznych i",
+        "klasyfikuje substancje jako kwasy lub zasady zgodnie z teorią Brønsteda–Lowry’ego; wskazuje sprzężone",
+        "uzasadnia przyczynę kwasowego odczynu wodnych roztworów kwasów, zasadowego odczynu wodnych roztworów"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 2,
+        "toDay": 8,
+        "month": 2,
+        "year": 2026,
+        "raw": "2-8.02.2026"
+      },
+      "defaultBucket": "date:2026-02-02"
+    },
+    {
+      "id": "chemia:course:week-6",
+      "subject": "chemia",
+      "monthName": null,
+      "month": null,
+      "section": "Reakcje redoks i elektrochemia",
+      "items": [
+        "Określanie stopnia utlenienia i podstawowe pojęcia",
+        "Bilans elektronowo-jonowy",
+        "Istota działania ogniwa",
+        "SEM ogniwa galwanicznego",
+        "2 godz. 40 min. teorii",
+        "31 zadań z rozwiązaniem",
+        "stosuje pojęcia: stopień utlenienia, utleniacz, reduktor, utlenianie, redukcja; ",
+        "wskazuje utleniacz, reduktor, proces utleniania i redukcji w podanej reakcji; ",
+        "na podstawie konfiguracji elektronowej atomów przewiduje typowe stopnie utlenienia pierwiastków; ",
+        "oblicza stopnie utlenienia pierwiastków w jonie i cząsteczce związku nieorganicznego i organicznego; ",
+        "stosuje zasady bilansu elektronowo-jonowego – dobiera współczynniki stechiometryczne w schematach reakcji",
+        "przewiduje kierunek przebiegu reakcji utleniania-redukcji na podstawie wartości potencjałów standardowych",
+        "stosuje pojęcia: półogniwo, anoda, katoda, ogniwo galwaniczne, klucz elektrolityczny, potencjał standardowy",
+        "pisze oraz rysuje schemat ogniwa odwracalnego i nieodwracalnego; ",
+        "pisze równania reakcji zachodzących na elektrodach (na katodzie i anodzie) ogniwa galwanicznego o danym",
+        "oblicza SEM ogniwa galwanicznego na podstawie standardowych potencjałów półogniw, z których jest ono"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": null,
+      "defaultBucket": "chemia:unassigned"
+    },
+    {
+      "id": "chemia:course:week-7",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 2,
+      "section": "Właściwości pierwiastków chemicznych",
+      "items": [
+        "Pierwiastki bloku s",
+        "Pierwiastki bloku p",
+        "Pierwiastki bloku d",
+        "Wykrywanie skał wapiennych",
+        "Twardość wody",
+        "Właściwości sorpcyjne gleby",
+        "2 godz. teorii",
+        "29 zadań z rozwiązaniem",
+        "opisuje podobieństwa we właściwościach pierwiastków w grupach układu okresowego i zmienność właściwości w",
+        "opisuje podstawowe właściwości fizyczne metali i wyjaśnia je na podstawie znajomości natury wiązania",
+        "analizuje i porównuje właściwości fizyczne i chemiczne metali grup 1. i 2.;",
+        "przewiduje produkty redukcji jonów manganianowych(VII) w zależności od środowiska, a także jonów",
+        "projektuje i przeprowadza doświadczenia pozwalające otrzymać w laboratorium: tlen (np. reakcja rozkładu H",
+        "projektuje doświadczenia, w wyniku których można otrzymać wodór (reakcje aktywnych metali z wodą lub",
+        "pisze równania reakcji ilustrujące typowe właściwości chemiczne niemetali, w tym między innymi równania reakcji:",
+        "analizuje i porównuje właściwości fizyczne i chemiczne fluorowców. ",
+        "bada i opisuje właściwości tlenku krzemu(IV);",
+        "opisuje rodzaje skał wapiennych (wapień, marmur, kreda); projektuje i przeprowadza doświadczenie, którego celem",
+        "projektuje doświadczenie, którego celem będzie odróżnienie skał wapiennych od innych skał i minerałów; pisze",
+        "opisuje usuwanie twardości przemijającej wody; pisze odpowiednie równania reakcji;",
+        "wyjaśnia proces twardnienia zaprawy gipsowej; pisze odpowiednie równanie reakcji;",
+        "tłumaczy, na czym polegają sorpcyjne właściwości gleby w uprawie roślin i ochronie środowiska; opisuje wpływ pH"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 16,
+        "toDay": 22,
+        "month": 2,
+        "year": 2026,
+        "raw": "16-22.02.2026"
+      },
+      "defaultBucket": "date:2026-02-16"
+    },
+    {
+      "id": "chemia:course:week-8",
+      "subject": "chemia",
+      "monthName": null,
+      "month": null,
+      "section": "Mol i masa molowa",
+      "items": [
+        "Mol i masa molowa",
+        "Wzór empiryczny i rzeczywisty",
+        "Średnia masa atomowa",
+        "Objętość molowa gazów i równanie Clapeyrona",
+        "1 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "16 zadań z rozwiązaniem",
+        "stosuje pojęcia: mol i liczba Avogadra; ",
+        "odczytuje w układzie okresowym masy atomowe pierwiastków i na ich podstawie oblicza masę molową",
+        "oblicza masę atomową pierwiastka na podstawie jego składu izotopowego i mas atomowych izotopów;",
+        "ustala skład izotopowy pierwiastka na podstawie jego masy atomowej i mas atomowych izotopów (dla",
+        "ustala wzór empiryczny i rzeczywisty związku chemicznego (nieorganicznego i organicznego) na podstawie",
+        "Stężenie procentowe",
+        "Stężenie molowe",
+        "Gęstość",
+        "Przeliczanie stężeń",
+        "Mieszanie roztworów",
+        "Rozpuszczalność",
+        "35 min. teorii  (wszystkie punkty z podstawy programowej)",
+        "25 zadań z rozwiązaniem",
+        "wykonuje obliczenia związane z przygotowaniem, rozcieńczaniem i zatężaniem roztworów z zastosowaniem pojęć:",
+        "projektuje doświadczenie pozwalające otrzymać roztwór o określonym stężeniu procentowym lub molowym;"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": null,
+      "defaultBucket": "chemia:unassigned"
+    },
+    {
+      "id": "chemia:course:week-9",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 3,
+      "section": "Stechiometria",
+      "items": [
+        "Reagenty w ilościach niestechiometrycznych (nadmiar / niedomiar)",
+        "Nadmiar / niedomiar - teoria",
+        "Wydajność reakcji",
+        "Reakcje następujące po sobie",
+        "Reakcje biegnące równolegle (metoda xy)",
+        "Ustalanie wzoru na podstawie równania reakcji",
+        "1 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "41 zadań z rozwiązaniem",
+        "dokonuje interpretacji jakościowej i ilościowej równania reakcji w ujęciu molowym, masowym i objętościowym (dla",
+        "wykonuje obliczenia, z uwzględnieniem wydajności reakcji, dotyczące: liczby moli oraz mas substratów i produktów",
+        "stosuje do obliczeń równanie Clapeyrona. "
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 2,
+        "toDay": 8,
+        "month": 3,
+        "year": 2026,
+        "raw": "2-8.03.2026"
+      },
+      "defaultBucket": "date:2026-03-02"
+    },
+    {
+      "id": "chemia:course:week-10",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 3,
+      "section": "Zadania na stałą równowagi",
+      "items": [
+        "2 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "9 zadań z rozwiązaniem",
+        "oblicza wartość stałej równowagi reakcji odwracalnej; oblicza stężenia równowagowe albo stężenia",
+        "10 min. teorii  (wszystkie punkty z podstawy programowej)",
+        "5 zadań z rozwiązaniem",
+        "interpretuje wartości Ks; ",
+        "wykonuje obliczenia z zastosowaniem pojęć: iloczyn rozpuszczalności "
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 9,
+        "toDay": 16,
+        "month": 3,
+        "year": 2026,
+        "raw": "9-16.03.2026"
+      },
+      "defaultBucket": "date:2026-03-09"
+    },
+    {
+      "id": "chemia:course:week-11",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 3,
+      "section": "Zadania obliczeniowe związane z pH",
+      "items": [
+        "Klasyczny wzór na pH",
+        "Stała i stopień dysocjacji",
+        "Prawo rozcieńczeń Ostwalda",
+        "Iloczyn jonowy wody",
+        "31 min. teorii  (wszystkie punkty z podstawy programowej)",
+        "22 zadania z rozwiązaniem",
+        "interpretuje wartości pKw, pH, Ka, Kb; ",
+        "wykonuje obliczenia z zastosowaniem pojęć: stała dysocjacji, stopień dysocjacji, pH, iloczyn jonowy wody; stosuje"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 23,
+        "toDay": 29,
+        "month": 3,
+        "year": 2026,
+        "raw": "23-29.03.2026"
+      },
+      "defaultBucket": "date:2026-03-23"
+    },
+    {
+      "id": "chemia:course:week-12",
+      "subject": "chemia",
+      "monthName": null,
+      "month": null,
+      "section": "Ogólne informacje z chemii organicznej",
+      "items": [
+        "Izomeria konstytucyjna (podstawienia)",
+        "Izomeria cis-trans",
+        "Izomeria optyczna",
+        "1 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "16 zadań z rozwiązaniem",
+        "na podstawie wzoru sumarycznego, półstrukturalnego (grupowego), opisu budowy lub właściwości",
+        "stosuje pojęcia: homolog, szereg homologiczny, wzór ogólny, rzędowość w związkach organicznych; ",
+        "wyjaśnia pojęcie alotropii pierwiastków; na podstawie znajomości budowy diamentu, grafitu, grafenu i fullerenów",
+        "przedstawia tendencje zmian właściwości fizycznych (np. temperatura topnienia, temperatura wrzenia,",
+        "na podstawie wzorów strukturalnych lub półstrukturalnych (grupowych) podaje nazwy systematyczne",
+        "stosuje pojęcia: izomeria konstytucyjna (szkieletowa, położenia, grup funkcyjnych), stereoizomeria (izomeria",
+        "rysuje wzory strukturalne i półstrukturalne (grupowe) izomerów konstytucyjnych o podanym wzorze sumarycznym;",
+        "wyjaśnia zjawisko izomerii geometrycznej (cis–trans); uzasadnia warunki wystąpienia izomerii geometrycznej w",
+        "wyjaśnia zjawisko izomerii optycznej; wskazuje centrum stereogeniczne (asymetryczny atom węgla); rysuje wzory w",
+        "porównuje właściwości różnych izomerów konstytucyjnych; porównuje właściwości stereoizomerów (enancjomerów",
+        "analizuje zmiany właściwości fizycznych (np. temperatury topnienia, temperatury wrzenia, rozpuszczalności w",
+        "Określanie mechanizmu reakcji",
+        "30 min. teorii  (wszystkie punkty z podstawy programowej)",
+        "3 zadania z rozwiązaniem",
+        "klasyfikuje reakcje związków organicznych ze względu na typ procesu (addycja, eliminacja, substytucja,"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": null,
+      "defaultBucket": "chemia:unassigned"
+    },
+    {
+      "id": "chemia:course:week-13",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 4,
+      "section": "Węglowodory i chlorowcopochodne",
+      "items": [
+        "Podział i nazewnictwo węglowodorów",
+        "Właściwości fizyczne węglowodorów",
+        "Spalanie węglowodorów",
+        "Reakcje charakterystyczne alkanów",
+        "Reakcje charakterystyczne węglowodorów nienasyconych",
+        "Budowa i właściwości węglowodorów aromatycznych",
+        "Reakcje charakterystyczne i wpływ kierujący podstawnika",
+        "Przewidywanie miejsca reakcji",
+        "Otrzymywanie chlorowcopochodnych",
+        "Reakcje charakterystyczne chlorowcopochodnych",
+        "2 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "25 zadań z rozwiązaniem",
+        "ustala rzędowość atomów węgla w cząsteczce węglowodoru;",
+        "opisuje właściwości chemiczne alkanów na przykładzie reakcji: spalania, substytucji atomu (lub atomów) wodoru",
+        "opisuje właściwości chemiczne alkenów na przykładzie reakcji: spalania, addycji: H",
+        "planuje ciąg przemian pozwalających otrzymać np. alken z alkanu (z udziałem fluorowcopochodnych",
+        "opisuje właściwości chemiczne alkinów na przykładzie reakcji: spalania, addycji: H",
+        "ustala wzór monomeru, z którego został otrzymany polimer o podanej strukturze; rysuje wzór polimeru",
+        "opisuje budowę cząsteczki benzenu z uwzględnieniem delokalizacji elektronów; wyjaśnia, dlaczego benzen, w",
+        "opisuje właściwości chemiczne benzenu i toluenu (metylobenzenu) na przykładzie reakcji: spalania, z Cl",
+        "projektuje doświadczenia pozwalające na wskazanie różnic we właściwościach chemicznych węglowodorów",
+        "wyjaśnia pojęcie liczby oktanowej (LO) i podaje sposoby zwiększania LO benzyny; tłumaczy, na czym polega kraking",
+        "Budowa i nazewnictwo alkoholi",
+        "Właściwości alkoholi",
+        "Otrzymywanie alkoholi",
+        "Reakcje charakterystyczne alkoholi",
+        "Odróżnianie alkoholi o różnej rzędowości",
+        "Wykrywanie alkoholi polihydroksylowych",
+        "Budowa i otrzymywanie fenoli",
+        "Reakcje charakterystyczne fenoli",
+        "Wykrywanie fenoli",
+        "Porównanie właściwości alkoholi i fenoli",
+        "1 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "9 zadań z rozwiązaniem",
+        "porównuje budowę cząsteczek alkoholi i fenoli; wskazuje wzory alkoholi pierwszo-, drugo-, i trzeciorzędowych; ",
+        "opisuje właściwości chemiczne alkoholi na przykładzie reakcji: spalania, z HCl i HBr, zachowania wobec sodu,",
+        "porównuje właściwości fizyczne i chemiczne alkoholi mono- i polihydroksylowych (etanolu (alkoholu etylowego),",
+        "opisuje zachowanie: alkoholi pierwszo-, drugo- i trzeciorzędowych wobec utleniaczy (np. CuO lub K",
+        "pisze równanie reakcji manganianu(VII) potasu (w środowisku kwasowym) z alkoholem (np. z etanolem,",
+        "opisuje właściwości chemiczne fenoli na podstawie reakcji z: sodem, wodorotlenkiem sodu, bromem, kwasem",
+        "na podstawie wyników doświadczenia (reakcji kwasowo-zasadowych lub reakcji z FeCl",
+        "na podstawie obserwacji doświadczeń formułuje wniosek dotyczący kwasowego charakteru fenolu;",
+        "projektuje doświadczenie, które umożliwi porównanie mocy kwasów, np. fenolu i kwasu węglowego; pisze",
+        "na podstawie obserwacji doświadczeń formułuje wniosek dotyczący kwasowego charakteru fenolu; projektuje i",
+        "planuje ciągi przemian pozwalających otrzymać alkohol lub fenol z odpowiedniego węglowodoru; pisze"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 6,
+        "toDay": 12,
+        "month": 4,
+        "year": 2026,
+        "raw": "6-12.04.2026"
+      },
+      "defaultBucket": "date:2026-04-06"
+    },
+    {
+      "id": "chemia:course:week-14",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 4,
+      "section": "Związki karbonylowe",
+      "items": [
+        "Budowa i nazewnictwo aldehydów i ketonów",
+        "Otrzymywanie aldehydów i ketonów",
+        "Reakcje charakterystyczne aldehydów i ketonów",
+        "Budowa i nazewnictwo kwasów karboksylowych",
+        "Otrzymywanie kwasów karboksylowych",
+        "Reakcje charakterystyczne kwasów karboksylowych",
+        "Budowa, otrzymywanie i nazewnictwo estrów",
+        "Reakcje charakterystyczne estrów",
+        "Budowa i właściwości tłuszczów",
+        "2 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "32 zadań z rozwiązaniem",
+        "opisuje podobieństwa i różnice w budowie cząsteczek aldehydów i ketonów (obecność grupy karbonylowej:",
+        "pisze równania reakcji utleniania metanolu, etanolu,",
+        "projektuje doświadczenie, którego przebieg pozwoli odróżnić aldehyd od ketonu; na podstawie wyników",
+        "wskazuje grupę karboksylową i resztę kwasową we wzorach kwasów karboksylowych (alifatycznych i",
+        "pisze równania reakcji otrzymywania kwasów karboksylowych (np. z alkoholi lub z aldehydów);",
+        "pisze równania dysocjacji elektrolitycznej rozpuszczalnych w wodzie kwasów karboksylowych i nazywa",
+        "opisuje właściwości chemiczne kwasów karboksylowych na podstawie reakcji tworzenia: soli, estrów, amidów; pisze",
+        "opisuje czynniki wpływające na moc kwasów karboksylowych (długość łańcucha węglowego, obecność",
+        "na podstawie wyników doświadczenia porównuje moc kwasów;",
+        "opisuje strukturę cząsteczek estrów i wiązania estrowego; ",
+        "projektuje i przeprowadza reakcje estryfikacji; pisze równania reakcji alkoholi z kwasami nieorganicznymi i",
+        "wskazuje wpływ różnych czynników na położenie stanu równowagi reakcji estryfikacji lub hydrolizy estru;",
+        "wyjaśnia i porównuje przebieg hydrolizy estrów (np. octanu etylu, tłuszczów) w środowisku kwasowym (reakcja z",
+        "opisuje budowę tłuszczów stałych i ciekłych (jako estrów glicerolu i długołańcuchowych kwasów tłuszczowych) oraz",
+        "wyjaśnia, na czym polega proces usuwania brudu; zaznacza fragmenty hydrofobowe i hydrofilowe we wzorach",
+        "planuje ciągi przemian chemicznych wiążące ze sobą właściwości poznanych węglowodorów i ich pochodnych;"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 13,
+        "toDay": 19,
+        "month": 4,
+        "year": 2026,
+        "raw": "13-19.04.2026"
+      },
+      "defaultBucket": "date:2026-04-13"
+    },
+    {
+      "id": "chemia:course:week-15",
+      "subject": "chemia",
+      "monthName": null,
+      "month": 4,
+      "section": "Związki zawierające azot",
+      "items": [
+        "Budowa i nazewnictwo amin",
+        "Otrzymywanie i reakcje charakterystyczne amin",
+        "Budowa i właściwości aminokwasów",
+        "Reakcje charakterystyczne aminokwasów",
+        "Peptydy i białka",
+        "1 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "16 zadań z rozwiązaniem",
+        "opisuje budowę amin; wskazuje wzory amin pierwszo-, drugo-i trzeciorzędowych;",
+        "porównuje budowę amoniaku i amin; rysuje wzory elektronowe cząsteczek amoniaku i aminy (np. metyloaminy);",
+        "wskazuje podobieństwa i różnice w budowie amin alifatycznych (np. metyloaminy) i amin aromatycznych (np.",
+        "porównuje i wyjaśnia przyczynę zasadowych właściwości amoniaku i amin; pisze odpowiednie równania reakcji; ",
+        "opisuje właściwości chemiczne amin na podstawie reakcji: z wodą, z kwasami nieorganicznymi (np. z kwasem",
+        "opisuje właściwości kwasowo-zasadowe aminokwasów oraz mechanizm powstawania jonów obojnaczych;",
+        "pisze równania reakcji kondensacji cząsteczek aminokwasów (o podanych wzorach) prowadzących do",
+        "tworzy wzory dipeptydów i tripeptydów, powstających z podanych aminokwasów; rozpoznaje reszty",
+        "opisuje przebieg hydrolizy peptydów, rysuje wzory półstrukturalne (grupowe) aminokwasów powstających w",
+        "projektuje doświadczenie, którego wynik dowiedzie obecności wiązań peptydowych w analizowanym związku",
+        "obserwuje proces denaturacji białek wywołanej oddziaływaniem na nie soli metali ciężkich i wysokiej",
+        "projektuje i przeprowadza doświadczenie pozwalające na identyfikację białek (reakcja biuretowa i reakcja"
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": {
+        "fromDay": 20,
+        "toDay": 26,
+        "month": 4,
+        "year": 2026,
+        "raw": "20-26.04.2026"
+      },
+      "defaultBucket": "date:2026-04-20"
+    },
+    {
+      "id": "chemia:course:week-16",
+      "subject": "chemia",
+      "monthName": null,
+      "month": null,
+      "section": "Cukry",
+      "items": [
+        "Budowa i właściwości cukrów prostych",
+        "Jak rysować wzory taflowe (wzory Hawortha)?",
+        "Reakcje charakterystyczne cukrów prostych",
+        "Dwucukry",
+        "Wielocukry",
+        "1 godz. teorii  (wszystkie punkty z podstawy programowej)",
+        "12 zadań z rozwiązaniem",
+        "dokonuje podziału cukrów na proste i złożone, klasyfikuje cukry proste ze względu na grupę funkcyjną i liczbę",
+        "zapisuje wzory łańcuchowe w projekcji Fischera glukozy i fruktozy; wykazuje, że cukry proste należą do",
+        "rysuje wzory taflowe (Hawortha) anomerów α i β glukozy i fruktozy; na podstawie wzoru łańcuchowego",
+        "rozpoznaje reszty glukozy i fruktozy w disacharydach i polisacharydach o podanych wzorach;",
+        "projektuje i przeprowadza doświadczenie, którego wynik potwierdzi właściwości redukujące np. glukozy;",
+        "projektuje doświadczenie pozwalające na odróżnienie glukozy i fruktozy;",
+        "wskazuje wiązanie O-glikozydowe w cząsteczkach cukrów o podanych wzorach (np. sacharozy, maltozy, celobiozy);",
+        "wyjaśnia, dlaczego maltoza ma właściwości redukujące, a sacharoza nie wykazuje właściwości redukujących;",
+        "obserwuje różnice we właściwościach skrobi i celulozy."
+      ],
+      "sourceId": "chem-course",
+      "tags": [
+        "dated"
+      ],
+      "date": null,
+      "defaultBucket": "chemia:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:matura-ustna-i-pisemna-zasady-podstawa",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Matura ustna i pisemna – zasady (podstawa)",
+      "items": [
+        "test historycznoliteracki i język polski w użyciu, zasady pisania notatki syntetyzującej, wypracowanie, punktacja, czas trwania egzaminu",
+        "budowa egzaminu ustnego, punktacja, aktualna lista pytań jawnych – 76 pytań"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:konteksty",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Konteksty",
+      "items": [
+        "kontekst – czym jest; typy kontekstów (polityczny, kulturowy, filozoficzny, biograficzny, mitologiczny, biblijny, egzystencjalny, literacki, macierzysty, społeczny, religijny) oraz ich stosowanie w wypracowaniu"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:ortografia-interpunkcja-gramatyka",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Ortografia, interpunkcja, gramatyka",
+      "items": [
+        "gramatyka: części mowy i części zdania (w ramach przypomnienia) fleksja, słowotwórstwo, frazeologia, składnia, zdania wielokrotnie złożone, szyk wyrazów w zdaniu (oraz ich wykorzystanie w analizie i interpretacji tekstów oraz w tworzeniu wypowiedzi)",
+        "ortografia i interpunkcja: zasady pisowni wielką i małą literą pisowni łącznej i rozłącznej partykuły nie oraz partykuły -bym, -byś, -by z różnymi częściami mowy; pisowni zakończeń -ji, -ii, -i; zapisu przedrostków roz-, bez-, wes-, wz-, ws-; pisowni przyimków złożonych; pisowni nosówek (ą, ę) oraz połączeń om, on, em, en; pisowni skrótów i skrótowców; interpunkcja Wszystkie zagadnienia, które musisz umieć do egzaminu, znajdziesz w kursie maturalnym na oferta.kursydomatury.pl/polski/"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:zagadnienia-jezykowe-srodki-stylistyczne-rodzaje",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Zagadnienia  językowe,  środki  stylistyczne,  rodzaje",
+      "items": [
+        "epitet, porównanie, przenośnia (metafora), wyraz dźwiękonaśladowczy (onomatopeja), zdrobnienie, zgrubienie, ożywienie (animizacja), uosobienie (personifikacja), apostrofa, oksymoron, pytanie retoryczne, archaizm, neologizm, powtórzenie, przerzutnia, alegoria, symbol, wyliczenie, wykrzyknienie, hiperbola (przesadnia), peryfraza (omówienie), antyteza (przeciwstawienie), eufemizm (złagodnienie), paralelizm, synekdocha (ogarnienie), metonimia (zamiennia), inwersja (szyk przestawny), anakolut, eufonia, aliteracja, paronomazja, synestezja",
+        "liryka, epika, dramat",
+        "zagadnienia językowe – znak językowy i akt komunikacji, styl i stylizacja, style funkcjonalne, moda językowa, stylizacje – archaizacja, dialektyzacja, kolokwializacja, stylizacja środowiskowa, biblijna; słownictwo wartościujące, neutralne, funkcje tekstu (informatywna, poetycka, ekspresywna, impresywna), zapożyczenia, homonimia, paradoks; odmiany polszczyzny, innowacja i błąd; manipulacja, dezinformacja; etykieta językowa, perswazja, stereotyp językowy; pragmatyczny i etyczny wymiar reklamy"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:sinusoida-epok-profesora-juliana-krzyzanowskiego",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Sinusoida epok profesora Juliana Krzyżanowskiego",
+      "items": [
+        "antyk, średniowiecze, renesans, barok, oświecenie, romantyzm, pozytywizm, Młoda Polska, dwudziestolecie międzywojenne, literatura wojny i okupacji, literatura lat 45-89 oraz po 89 roku Wszystkie zagadnienia, które musisz umieć do egzaminu, znajdziesz w kursie maturalnym na oferta.kursydomatury.pl/polski/"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:parandowskiego-poezja-horacego",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Parandowskiego, poezja Horacego",
+      "items": [
+        "Biblia – gatunki i cechy stylu biblijnego, opowieści biblijne (stworzenie świata, Adam i Ewa, Kain i Abel, Potop, Wieża Babel,"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:biblii-pytania-jawne",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Biblii + pytania jawne",
+      "items": [
+        "Antygona – bohaterowie, układ wydarzeń, konflikt tragiczny, charakterystyka Antygony, obrona i oskarżenie Antygony, mit",
+        "rodzie Labdakidów + pytania jawne",
+        "Iliada – ogólne informacje, motywy literackie z mitologii + pytania jawne",
+        "Mitologia cz. I Grecja – m.in. powstanie świata; Prometeusz"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:syzyf-orfeusz-i-eurydyka-dedal-i-ikar-jazon-i-medea-demeter",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Syzyf; Orfeusz i Eurydyka; Dedal i Ikar; Jazon i Medea, Demeter",
+      "items": [
+        "Horacy – wybrane utwory"
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-jan:styczen:arkusz-wypracowanie-probne-podstawa",
+      "subject": "polski",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Arkusz/wypracowanie próbne (podstawa)",
+      "items": [
+        "Wypisz i krótko scharakteryzuj najważniejsze motywy literackie ze wszystkich lektur obowiązkowych, które musisz znać w całości."
+      ],
+      "sourceId": "polski-jan",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:pan-tadeusz-dziady-cz-iii-i-ii",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Pan Tadeusz, Dziady cz. III  i II",
+      "items": [
+        "Pan Tadeusz (księgi: I, II, IV, X, XI, XII) – informacje ogólne (data wydania, gatunek, geneza), bohaterowie, przebieg wydarzeń, Jacek Soplica jako bohater romantyczny, wątki (zamek, romanse, niepodległość, spór Asesora i Rejenta), obraz szlachty, przyroda, motywy literackie + pytania jawne",
+        "Dziady cz. III – informacje ogólne (data wydania, gatunek, geneza); bohaterowie; Konrad jako bohater romantyczny;"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:wielka-improwizacja-widzenie-ks-piotra-obraz",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Wielka    improwizacja;        Widzenie    ks.    Piotra;        obraz",
+      "items": [
+        "Dziady cz. II – informacje ogólne (data wydania, gatunek, geneza itp.); typy duchów - ich przewinienia oraz kary; obrzęd dziadów; motywy literackie + pytania jawne"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:poezja-a-mickiewicza-j-s-owackiego-c-k-norwida",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Poezja A. Mickiewicza, J. Słowackiego, C. K. Norwida",
+      "items": [
+        "Adam Mickiewicz – Oda do młodości; wybrane ballady, w tym"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:romantycznosc-wybrane-sonety-z-cyklu-sonety-krymskie-oraz",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Romantyczność;  wybrane  sonety  z  cyklu Sonety  krymskie oraz",
+      "items": [
+        "Juliusz Słowacki – wybrane wiersze, w tym Testament mój",
+        "Cyprian Kamil Norwid – wybrane wiersze"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:balladyna-zemsta",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Balladyna, Zemsta",
+      "items": [
+        "Balladyna – informacje ogólne (data wydania, gatunek, geneza), bohaterowie, przebieg wydarzeń, kompozycja, motywy literackie, konteksty, problematyka winy i kary + pytania jawne",
+        "Zemsta – informacje ogólne (data wydania, gatunek, geneza), bohaterowie, przebieg wydarzeń, kompozycja, motywy literackie, komizm postaci, komizm słowny, komizm sytuacyjny + pytania jawne Wszystkie zagadnienia, które musisz umieć do egzaminu, znajdziesz w kursie maturalnym na oferta.kursydomatury.pl/polski/"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:lalka",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Lalka",
+      "items": [
+        "Lalka – informacje ogólne (data wydania, geneza, o autorze itp.), znaczenie tytułu, bohaterowie i fabuła, Wokulski – losy,"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:zbrodnia-i-kara",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Zbrodnia i kara",
+      "items": [
+        "Zbrodnia i kara – informacje ogólne (data wydania, geneza,",
+        "autorze, tłumaczenie tytułu itp.), bohaterowie i fabuła (m.in sny Swidrygajłowa, Raskolnikowa), kompozycja, filozofia w powieści, znaczenie epilogu, motywy literackie + pytania jawne"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "polski:polski-feb:luty:potop-fragmenty",
+      "subject": "polski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Potop (fragmenty)",
+      "items": [
+        "Potop – informacje ogólne (data wydania, geneza, o autorze, gatunek – cechy powieści historycznej itp.), bohaterowie (charakterystyka Kmicica) i fabuła, kompozycja, tło historyczne, motywy literackie + pytania jawne"
+      ],
+      "sourceId": "polski-feb",
+      "tags": [
+        "podstawa"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "angielski:ang-feb-a:luty:rodzaj-rzeczownika-tworzenie-rzeczownikow",
+      "subject": "angielski",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Rodzaj rzeczownika (tworzenie rzeczowników",
+      "items": [
+        "innym rodzaju gramatycznym) o"
+      ],
+      "sourceId": "ang-feb-a",
+      "tags": [
+        "wariant-a"
+      ],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:chemizm-zycia",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Chemizm życia",
+      "items": [
+        "znaczenie biologiczne makroelementów, w tym pierwiastków biogennych;",
+        "znaczenie wybranych mikroelementów (Fe, I, F)",
+        "rola wody w życiu organizmów, z uwzględnieniem jej właściwości fizycznych i chemicznych;",
+        "budowa węglowodanów (uwzględniając wiązania glikozydowe α, β); rozróżnianie monosacharydów (glukoza, fruktoza, galaktoza, ryboza, deoksyryboza), disacharydów (sacharoza, laktoza, maltoza), polisacharydów (skrobia, glikogen, celuloza, chityna)",
+        "znaczenie biologiczne węglowodanów, uwzględniając ich właściwości fizyczne i chemiczne;",
+        "planuje oraz przeprowadza doświadczenie wykazujące obecność skrobi w materiale biologicznym;",
+        "budowa białek (uwzględniając wiązania peptydowe) rozróżnianie białek prostych i złożonych; opisywanie struktury I-, II-, III- i IV-rzędowej białek;",
+        "planuje i przeprowadza doświadczenie wykazujące obecność białek w materiale biologicznym",
+        "wpływ czynników fizycznych i chemicznych na białko (zjawisko koagulacji i denaturacji);",
+        "biologiczne znaczenie białek (albuminy, globuliny, histony, kolagen, keratyna, fibrynogen, hemoglobina, mioglobina);",
+        "obserwacje wpływu wybranych czynników fizycznych i chemicznych na białko;",
+        "budowa lipidów (uwzględniając wiązania estrowe); rozróżnianie lipidów prostych i złożonych;",
+        "właściwości lipidów oraz ich znaczenie biologiczne",
+        "porównanie składu chemicznego i struktury cząsteczek DNA i"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:rna-z-uwzglednieniem-rodzajow-wiazan-wystepujacych-w-tych",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "RNA, z uwzględnieniem rodzajów wiązań występujących w tych",
+      "items": [
+        "znaczenie biologiczne kwasów nukleinowych"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:komorka",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Komórka",
+      "items": [
+        "elementy budowy komórki eukariotycznej na preparacie mikroskopowym, na mikrofotografii, rysunku lub na schemacie;",
+        "związek budowy błony komórkowej z pełnionymi przez nią funkcjami;",
+        "rodzaje transportu do i z komórki (dyfuzja prosta i wspomagana, transport aktywny, endocytoza i egzocytoza);",
+        "rola błony komórkowej i tonoplastu w procesach osmotycznych",
+        "planowanie i przeprowadzanie doświadczeń wykazujących zjawisko osmozy wywołane różnicą stężeń wewnątrz i na zewnątrz komórki;",
+        "planowanie i przeprowadzanie obserwacji zjawiska plazmolizy",
+        "budowa jądra komórkowego i jego rola w funkcjonowaniu komórki;",
+        "budowa rybosomów, ich powstawanie i pełniona funkcja oraz ich lokalizacja w komórce;",
+        "błony wewnątrzkomórkowe jako zintegrowany system strukturalno-funkcjonalny oraz określanie ich roli w kompartmentacji komórki;",
+        "budowa mitochondriów i plastydów ze szczególnym uwzględnieniem chloroplastów;",
+        "obserwacje mikroskopowe plastydów w materiale biologicznym",
+        "argumenty przemawiające za endosymbiotycznym pochodzeniem mitochondriów i chloroplastów;",
+        "związek budowy ściany komórkowej z pełnioną funkcją oraz wskazanie grupy organizmów, u których ona występuje;",
+        "znaczenie wakuoli w funkcjonowaniu komórki roślinnej",
+        "znaczenie cytoszkieletu w ruchu komórek, transporcie wewnątrzkomórkowym, podziałach komórkowych oraz stabilizacji struktury komórki;",
+        "obserwacje mikroskopowe ruchów cytoplazmy w komórkach roślinnych",
+        "różnice w budowie komórki prokariotycznej i eukariotycznej",
+        "różnice w budowie komórki roślinnej, grzybowej i zwierzęcej"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:energia-i-metabolizm",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Energia i metabolizm",
+      "items": [
+        "pojęcia: szlaku i cyklu metabolicznego",
+        "istota procesów anabolicznych i katabolicznych oraz wykazanie, że są ze sobą powiązane;",
+        "związek budowy ATP z jego rolą biologiczną",
+        "znaczenie NAD + , FAD, NADP + w procesach utleniania i redukcji;",
+        "charakterystyczne cechy budowy enzymu",
+        "swoistość substratowa enzymu oraz opis katalizy enzymatycznej",
+        "sposoby regulacji aktywności enzymów (aktywacja, inhibicja)",
+        "mechanizm sprzężenia zwrotnego ujemnego jako sposób regulacji przebiegu szlaków metabolicznych;",
+        "wpływ czynników fizyko-chemicznych (temperatury, pH, stężenia substratu) na przebieg katalizy enzymatycznej;",
+        "planowanie i przeprowadzanie doświadczeń badających wpływ różnych czynników na aktywność enzymów (katalaza, proteinaza);",
+        "związek budowy chloroplastu z przebiegiem procesu fotosyntezy",
+        "rola barwników i fotosystemów w procesie fotosyntezy",
+        "analiza na podstawie schematu przebieg fazy zależnej od światła oraz fazy niezależnej od światła; wyróżnianie substratów i produktów obu faz;",
+        "rola składników siły asymilacyjnej w fazie niezależnej od światła",
+        "mechanizm powstawania ATP w procesie chemiosmozy w chloroplaście;",
+        "porównanie na podstawie schematu fotofosforylację cykl niecykliczną",
+        "związek budowy mitochondrium z przebiegiem procesu oddychania komórkowego;",
+        "analiza na podstawie schematu przebiegu glikolizy, reakcji pomostowej i cyklu Krebsa, wyróżnianie substratów i produktów tych procesów;",
+        "przedstawianie, na czym polega fosforylacja substratowa",
+        "mechanizm powstawania ATP w procesie chemiosmozy w mitochondriach (fosforylacja oksydacyjna);",
+        "porównanie drogi przemiany pirogronianu w fermentacji alkoholowej, mleczanowej i w oddychaniu tlenowym;",
+        "wyjaśnienie, dlaczego utlenianie substratu energetycznego w warunkach tlenowych dostarcza więcej energii niż w warunkach beztlenowych;",
+        "analiza na podstawie schematu przebiegu glukoneogenezy i glikogenolizy i wykazywanie związku tego procesu z pozyskiwaniem energii przez komórkę;"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:zasady-klasyfikacji-i-sposoby-identyfikacji-organizmow",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Zasady klasyfikacji i sposoby identyfikacji organizmów",
+      "items": [
+        "wnioskowanie na podstawie analizy kladogramów o pokrewieństwie ewolucyjnym organizmów;",
+        "rozróżnianie na drzewie filogenetycznym grupy monofiletyczne, parafiletyczne i polifiletyczne;",
+        "wykazanie, że klasyfikacja organizmów oparta jest na ich filogenezie",
+        "porządkowanie hierarchicznie podstawowe rangi taksonomiczne"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:bakterie",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Bakterie",
+      "items": [
+        "budowa komórki prokariotycznej, z uwzględnieniem różnic w budowie ściany komórkowej bakterii Gram-dodatnich i Gram-ujemnych;",
+        "różnice między archeowcami i bakteriami",
+        "znaczenie archeowców",
+        "różnorodność form morfologicznych bakterii",
+        "czynności życiowe bakterii: odżywianie (chemoautotrofizm, fotoautotrofizm, heterotrofizm); oddychanie beztlenowe (denitryfikacja, fermentacja) i tlenowe; rozmnażanie;",
+        "znaczenie procesów płciowych w zmienności genetycznej bakterii",
+        "znaczenie bakterii w przyrodzie i dla człowieka, w tym wywołujących choroby człowieka ((gruźlica, tężec, borelioza, salmonelloza, kiła, rzeżączka);"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-jan:styczen:wirusy",
+      "subject": "biologia",
+      "monthName": "STYCZEŃ",
+      "month": 1,
+      "section": "Wirusy",
+      "items": [
+        "budowa wirusów jako bezkomórkowe formy infekcyjne",
+        "różnorodność morfologiczna i genetyczna wirusów",
+        "związek budowy wirusów ze sposobem infekowania komórek",
+        "cykle infekcyjne wirusów (lityczny i lizogeniczny)",
+        "mechanizm odwrotnej transkrypcji i jego znaczenie w namnażaniu retrowirusów;",
+        "drogi rozprzestrzeniania się i zasady profilaktyki chorób człowieka wywoływanych przez wirusy (wścieklizna, AIDS, schorzenia wywołane zakażeniem HPV, grypa, odra, ospa, różyczka, świnka, WZW typu A, B i C);",
+        "znaczenie wirusów w przyrodzie i dla człowieka"
+      ],
+      "sourceId": "bio-jan",
+      "tags": [],
+      "defaultBucket": "month:2026-01:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:grzyby",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Grzyby",
+      "items": [
+        "różnorodność morfologiczna grzybów",
+        "czynności życiowe grzybów: odżywianie, oddychanie i rozmnażanie;",
+        "planowanie i przeprowadzanie doświadczenie wykazujące, że drożdże przeprowadzają fermentację alkoholową;",
+        "przedstawienie porostów jako organizmy",
+        "drogi zarażenia się i zasady profilaktyki chorób wywołanych przez grzyby (grzybice skóry, narządów płciowych, płuc);"
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:protisty",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Protisty",
+      "items": [
+        "formy morfologiczne protistów",
+        "czynności życiowe protistów: odżywianie, poruszanie się, rozmnażanie, wydalanie i osmoregulacja;",
+        "założenie hodowli protistów słodkowodnych i obserwacja wybranych czynności życiowych tych protistów;",
+        "związek budowy protistów ze środowiskiem i trybem ich życia (obecność aparatu ruchu, budowa błony komórkowej, obecność chloroplastów i wodniczek tętniących);",
+        "analiza na podstawie schematów przebiegu cykli rozwojowych protistów i rozróżnianie poszczególnych fazy jądrowych;",
+        "drogi zarażenia się i zasady profilaktyki chorób wywołanych przez protisty (malaria, toksoplazmoza, lamblioza, rzęsistkowica);",
+        "znaczenie protistów (w tym protistów fotosyntetyzujących i symbiotycznych) w przyrodzie i dla człowieka;"
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:roznorodnosc-roslin",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Różnorodność roślin",
+      "items": [
+        "rozróżnianie zielenic i krasnorostów",
+        "znaczenie krasnorostów i zielenic w przyrodzie i dla człowieka",
+        "różnice między warunkami życia w wodzie i na lądzie",
+        "cechy charakterystyczne na przykładzie rodzimych gatunków mchów, paproci (widłakowych, skrzypowych, paprociowych) i nasiennych oraz na podstawie tych cech identyfikacja organizmu jako przedstawiciela jednej z tych grup;",
+        "rozpoznanie tkanek roślinnych na preparacie mikroskopowym, schemacie, mikrofotografii, na podstawie opisu i wykazywanie związku ich budowy z pełnioną funkcją;",
+        "znaczenie połączeń międzykomórkowych w tkankach roślinnych;",
+        "związek budowy morfologicznej i anatomicznej (pierwotnej i wtórnej) organów wegetatywnych roślin z pełnionymi przez nie funkcjami;",
+        "cechy budowy roślin, które umożliwiły zasiedlenie środowisk lądowych;",
+        "uzasadnianie, że modyfikacje organów wegetatywnych roślin są adaptacją do różnych warunków środowiska i pełnionych funkcji;",
+        "znaczenie roślin dla człowieka",
+        "mechanizmy pobierania oraz transportu wody i soli mineralnych",
+        "planowanie i przeprowadzenie obserwacji pozwalającej na identyfikację tkanki przewodzącej wodę w roślinie",
+        "związek zmian potencjału osmotycznego i potencjału wody z otwieraniem i zamykaniem szparek;",
+        "wpływ czynników zewnętrznych (temperatura, światło, wilgotność, ruchy powietrza) na bilans wodny roślin;",
+        "planowanie i przeprowadzanie doświadczeń określających wpływ czynników zewnętrznych na intensywność transpiracji;",
+        "wpływ suszy fizjologicznej na bilans wodny rośliny",
+        "wskazanie dostępnych dla roślin formy wybranych makroelementów (N, S);",
+        "znaczenie wybranych makro- i mikroelementów (N, S, Mg, K, P) dla roślin;",
+        "drogi, jakimi do liści docierają substraty fotosyntezy",
+        "drogi, jakimi transportowane są produkty fotosyntezy",
+        "adaptacje w budowie anatomicznej roślin do wymiany gazowej",
+        "wpływ czynników zewnętrznych i wewnętrznych na przebieg procesu fotosyntezy;",
+        "planowanie i przeprowadzanie doświadczeń wykazujących wpływ temperatury i natężenia światła na intensywność fotosyntezy;",
+        "udział innych organizmów (bakterie glebowe i symbiotyczne, grzyby) w pozyskiwaniu pokarmu przez rośliny;",
+        "porównywanie na podstawie schematów przemianę pokoleń mchów, paproci (paprociowych, widłakowych, skrzypowych), nagonasiennych i okrytonasiennych ;",
+        "sposoby bezpłciowego rozmnażania się roślin",
+        "budowa kwiatów roślin nasiennych",
+        "związek budowy kwiatu roślin okrytonasiennych ze sposobem ich zapylania;",
+        "proces zapłodnienia i powstawania nasion u roślin nasiennych oraz owoców u okrytonasiennych;",
+        "związek budowy owocu ze sposobem rozprzestrzeniania się roślin okrytonasiennych",
+        "budowa nasiona bielmowego",
+        "wpływ czynników zewnętrznych i wewnętrznych na proces kiełkowania nasion;",
+        "planowanie i przeprowadzenie doświadczenia określającego wpływ wybranych czynników (woda, temperatura, światło ) na proces kiełkowania nasion;",
+        "planowanie i przeprowadzenie doświadczenia wykazującego rolę liścieni we wzroście i rozwoju siewki rośliny;",
+        "rola auksyn i etylenu w procesach wzrostu i rozwoju roślin",
+        "nastie i tropizmy jako reakcje roślin na bodźce (światło, temperatura, grawitacja, bodźce mechaniczne i chemiczne);",
+        "planowanie i przeprowadzenie doświadczenia wykazującego różnice geotropizmu korzenia i pędu",
+        "rola auksyn w ruchach wzrostowych roślin"
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:roznorodnosc-zwierzat",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Różnorodność zwierząt",
+      "items": [
+        "rozróżnianie zwierząt dwuwarstwowych i trójwarstwowych",
+        "rozróżnianie zwierząt owodniowych i bezowodniowych",
+        "rozróżnianie zwierząt łożyskowych i bezłożyskowych",
+        "rozróżnianie zwierząt skrzelodysznych i płucodysznych",
+        "rozróżnianie zwierząt zmiennocieplnych i stałocieplnych",
+        "na podstawie drzewa filogenetycznego wykazanie pokrewieństwa między grupami zwierząt;",
+        "związek trybu życia zwierząt z symetrią ich ciała (promienista i dwuboczna);",
+        "cechy pozwalające na rozróżnienie parzydełkowców, płazińców, nicieni, pierścienic, mięczaków i stawonogów (skorupiaków, pajęczaków i owadów) i szkarłupni;",
+        "cechy pozwalające na rozróżnienie ryb, płazów, gadów, ssaków i ptaków; na podstawie tych cech identyfikacja organizm jako przedstawiciela jednej z tych grup;",
+        "rozpoznawanie tkanek zwierzęcych na preparacie mikroskopowym, na schemacie, mikrofotografii, na podstawie opisu i wykazanie związku ich budowy z pełnioną funkcją;",
+        "znaczenie połączeń międzykomórkowych w tkankach zwierzęcych;",
+        "związek budowy narządów z pełnioną przez nie funkcją",
+        "powiązania funkcjonalne pomiędzy narządami w obrębie układu",
+        "powiązania funkcjonalne pomiędzy układami narządów w obrębie organizmu;",
+        "mechanizmy warunkujące homeostazę (termoregulacja, osmoregulacja, stałość składu płynów ustrojowych, ciśnienie krwi);",
+        "związek między wielkością, aktywnością życiową, temperaturą ciała, a zapotrzebowaniem energetycznym organizmu;"
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:uk-ad-pow-okowy",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Układ powłokowy",
+      "items": [
+        "rodzaje pokrycia ciała zwierząt i ich funkcje",
+        "związek między budową i funkcją skóry kręgowców",
+        "przykłady sposobów regulacji temperatury ciała u zwierząt endotermicznych oraz ektotermicznych;",
+        "rola skóry w syntezie prowitaminy D",
+        "związek nadmiernej ekspozycji na promieniowanie UV z procesem starzenia się skóry oraz zwiększonym ryzykiem wystąpienia chorób i zmian skórnych;"
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:aparat-ruchu",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Aparat ruchu",
+      "items": [
+        "związek między środowiskiem życia a sposobem poruszania się;",
+        "rodzaje ruchu zwierząt (rzęskowy, mięśniowy)",
+        "analiza współdziałania mięśni z różnymi typami szkieletu (hydrauliczny, zewnętrzny, wewnętrzny);",
+        "analiza budowy szkieletu wewnętrznego (na schemacie, modelu, fotografii) jako wyraz adaptacji do środowiska i trybu życia;",
+        "opis współdziałania mięśni, ścięgien, stawów i kości w ruchu człowieka;",
+        "budowa mięśnia szkieletowego (filamenty aktynowe i miozynowe, miofibrylla, włókno mięśniowe, brzusiec mięśnia);",
+        "wyjaśnienie na podstawie schematu, molekularny mechanizm skurczu mięśnia;",
+        "sposoby pozyskiwania ATP niezbędnego do skurczu mięśnia",
+        "antagonizm i współdziałanie mięśni w wykonywaniu ruchów",
+        "rozpoznawanie (na modelu, schemacie, rysunku) rodzaje połączeń kości i określa ich funkcje;",
+        "rozpoznawanie (na modelu, schemacie, rysunku) kości szkieletu osiowego, obręczy i kończyn człowieka;",
+        "wpływ odżywiania się (w tym suplementacji) na rozwój oraz stan kości i mięśni człowieka;",
+        "wpływ substancji stosowanych w dopingu na organizm człowieka."
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    },
+    {
+      "id": "biologia:bio-feb:luty:uk-ad-pokarmowy",
+      "subject": "biologia",
+      "monthName": "LUTY",
+      "month": 2,
+      "section": "Układ pokarmowy",
+      "items": [
+        "adaptacje w budowie i funkcjonowaniu układów pokarmowych zwierząt do rodzaju pokarmu oraz sposobu jego pobierania;",
+        "rozróżnianie trawienia wewnątrzkomórkowego i zewnątrzkomórkowego u zwierząt;",
+        "rola nieorganicznych i organicznych składników pokarmowych w odżywianiu człowieka, w szczególności białek pełnowartościowych i niepełnowartościowych, NNKT, błonnika, witamin;",
+        "związek budowy odcinków przewodu pokarmowego człowieka z pełnioną przez nie funkcją;",
+        "rola wydzielin gruczołów i komórek gruczołowych w obróbce pokarmu",
+        "proces trawienia poszczególnych składników pokarmowych w przewodzie pokarmowym człowieka;",
+        "planowanie i przeprowadzanie doświadczenia sprawdzającego warunki trawienia skrobi;",
+        "rola mikrobiomu układu pokarmowego w funkcjonowaniu organizmu,",
+        "proces wchłaniania poszczególnych produktów trawienia składników pokarmowych w przewodzie pokarmowym człowieka;",
+        "rola wątroby w przemianach substancji wchłoniętych w przewodzie pokarmowym;",
+        "rola ośrodka głodu i sytości w przyjmowaniu pokarmu przez człowieka,",
+        "zasady racjonalnego żywienia człowieka",
+        "zaburzenia odżywiania (anoreksja, bulimia) i ich skutki zdrowotne,",
+        "przyczyny otyłości u człowieka oraz sposoby jej profilaktyki",
+        "znaczenie badań diagnostycznych (gastroskopia, kolonoskopia, USG) w profilaktyce chorób układu pokarmowego, w tym raka żołądka, raka jelita grubego;"
+      ],
+      "sourceId": "bio-feb",
+      "tags": [],
+      "defaultBucket": "month:2026-02:unassigned"
+    }
+  ]
+}
